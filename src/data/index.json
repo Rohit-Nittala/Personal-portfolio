@@ -1,0 +1,53 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Full-Stack Web development",
+      "description": "⚡ Develop highly interactive and up to date Web projects using MERN stack and also completed a web development project by Angela Yu on Udemy."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Data Structures and Algorithms",
+      "description": "😍 Really interested in Data structures and their working. Completed a course by Elshad Karimov on Udemy."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Machine Learning",
+      "description": "👀 Developed a lot of ML models which you can find on the github for various projects and always willing to explore more. "
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Artificial Inteliigence",
+      "description": "✔ Always keen to learn how we could do so many things just by understanding what we have in our hands."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/handwritten_digit_classification.png",
+      "title": "Handwritten digit Classification",
+      "description": "Applying convolutional neural networks (CNNs) to extract features from digit images enhances the model's capability for accurate digit classification and has low latency.",
+      "link": "https://github.com/Rohit-Nittala/Handwritten-Digit-Classification"
+    },
+    {
+      "id": "2",
+      "src": "./img/image_recognition.png",
+      "title": "Image Recognition using TensorFlow and Keras",
+      "description": "Used Artificial Neural Network to develop predictive models for image recognition using Keras and TensorFlow",
+      "link": "https://github.com/Rohit-Nittala/ImageClassification"
+    },
+    {
+      "id": "3",
+      "src": "./img/django_dicordApp.png",
+      "title": "Discord like Application",
+      "description": "Used the Django framework to create a dicsord like application which is a study room with the chat options.",
+      "link": "https://github.com/Rohit-Nittala/Studymates"
+    }
+  ]
+}
+ 
+
