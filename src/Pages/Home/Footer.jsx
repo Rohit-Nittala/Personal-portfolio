@@ -10,7 +10,7 @@ function Footer() {
         </div>
         <div className="footer--items">
           <ul>
-            <li>
+            {/*<li>
               <Link
                 activeClass="navbar--active-content"
                 spy={true}
@@ -21,6 +21,19 @@ function Footer() {
                 className="text-md"
               >
                 Home
+              </Link>
+            </li>
+            <li>
+              <Link
+                activeClass="navbar--active-content"
+                spy={true}
+                smooth={true}
+                offset={-70}
+                duration={500}
+                to="MySkills"
+                className="text-md"
+              >
+                My Skills
               </Link>
             </li>
             <li>
@@ -50,19 +63,6 @@ function Footer() {
               </Link>
             </li>
             <li>
-              <Link
-                activeClass="navbar--active-content"
-                spy={true}
-                smooth={true}
-                offset={-70}
-                duration={500}
-                to="Contact"
-                className="text-md"
-              >
-                Contact
-              </Link>
-            </li>
-            {/*<li>
               <Link
                 activeClass="navbar--active-content"
                 spy={true}
