@@ -65,11 +65,11 @@ function Navbar() {
             <Link
               onClick={closeMenu}
               activeClass="navbar--active-content"
-             spy={true}
+              spy={true}
               smooth={true}
               offset={-70}
               duration={500}
-              to="MySkills"
+              to="mySkills"
               className="navbar--content"
             >
               MySkills
